@@ -1,0 +1,3 @@
+Hello, I have a different opinion than our Course Instructor `Gregor Kiczales`. With due respect to him, I think choosing a industry standard language would be better. The reason is even if i don't know that language it would be an opportunity for us to learn a new language and that could be useful in future. But now everyone is learning something that , there will be no usecase for that.
+
+So i won't be taking notes as i don't see any usefulness wasting time on that.
